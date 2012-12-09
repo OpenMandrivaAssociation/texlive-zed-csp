@@ -48,3 +48,16 @@ functionality of Spivey's original Z package, written for LaTeX
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 20080405-2
++ Revision: 757781
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20080405-1
++ Revision: 719972
+- texlive-zed-csp
+- texlive-zed-csp
+- texlive-zed-csp
+
