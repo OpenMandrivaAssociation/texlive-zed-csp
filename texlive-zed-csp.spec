@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-zed-csp
 Version:	20080405
-Release:	5
+Release:	6
 Summary:	Typesetting Z and CSP format specifications
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zed-csp
