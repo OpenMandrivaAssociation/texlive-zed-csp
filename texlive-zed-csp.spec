@@ -3,7 +3,7 @@ Version:	17258
 Release:	2
 Summary:	Typesetting Z and CSP format specifications
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zed-csp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zed-csp
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zed-csp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zed-csp.doc.r%{version}.tar.xz
